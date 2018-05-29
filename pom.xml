@@ -32,7 +32,7 @@
         <repository>
             <id>Akka</id>
             <name>Akka Maven2 Repository</name>
-            <url>http://akka.io/repository/</url>
+            <url>https://repo.akka.io/releases/</url>
         </repository>
     </repositories>	
 </project>
